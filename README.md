@@ -5,7 +5,7 @@ This event took place over a six day period. Over the course of these six days, 
 Data was collected to document everything that happened, such as individual results for each game.
 </p>
 <p>
-When the event was over .JSON files were pulled from the platform and then converted into CSV files for further transformations. 
+When the event was over .JSON files were pulled from the platform and then converted into .CSV files for further transformations. 
 </p>
 <p>
 Data collected included the Leaderboard (a collection of all scores for each player ranking them from highest to lowest), 
